@@ -2,7 +2,7 @@
 
 This paper describes Facebook's `High Resolution Settlement Layer` model and its use of image collections.
 
-[HTML version](platform_embeddings.html)
+[HTML version](https://rian39.github.com/platform-embeddings/platform_embeddings.html)
 
 [markdown version](platform_embeddings.rmd)
 
